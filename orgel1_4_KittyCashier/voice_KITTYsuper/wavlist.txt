@@ -1,0 +1,12 @@
+irassyai.wav
+okaikei.wav
+hawaii.wav
+50yen.wav
+100manyen.wav
+100yen.wav
+250yen.wav
+300hangaku.wav
+300yen.wav
+400yen.wav
+500yen.wav
+700yen.wav

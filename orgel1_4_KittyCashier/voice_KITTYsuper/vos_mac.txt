@@ -1,0 +1,12 @@
+	vos_mac(0x000000,0x005d88,8000)	//1:irassyai.wav
+	vos_mac(0x005d88,0x010788,8000)	//2:okaikei.wav
+	vos_mac(0x016510,0x00cf5c,8000)	//3:hawaii.wav
+	vos_mac(0x02346c,0x003ea0,8000)	//4:50yen.wav
+	vos_mac(0x02730c,0x00ed94,8000)	//5:100manyen.wav
+	vos_mac(0x0360a0,0x004100,8000)	//6:100yen.wav
+	vos_mac(0x03a1a0,0x004e84,8000)	//7:250yen.wav
+	vos_mac(0x03f024,0x00748c,8000)	//8:300hangaku.wav
+	vos_mac(0x0464b0,0x004368,8000)	//9:300yen.wav
+	vos_mac(0x04a818,0x004568,8000)	//10:400yen.wav
+	vos_mac(0x04ed80,0x004500,8000)	//11:500yen.wav
+	vos_mac(0x053280,0x004468,8000)	//12:700yen.wav
