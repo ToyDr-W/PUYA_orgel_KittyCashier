@@ -12,6 +12,12 @@
 - **楽しく遊べる設計**：各種SW、CVDタッチセンス、LED点滅をサポート。
 - **省エネ・省コスト**：電力消費効率に優れた`BTL=3`出力で、100均のままごとスキャナーレジスター に収まる省スペース設計。
 
+<p align="center">
+<a href="https://youtu.be/clbYnFssXDQ?si=nvBzV3k7mjIYtbYP"><img width="45%" alt="251213_super (0)" src="https://github.com/user-attachments/assets/f838c136-ee09-460b-88b5-45808f21da3f" />
+<br>
+<em>▶️ YouTubeで動作確認動画を再生する ↗</em>
+</p>
+
 ### 📥 データのダウンロード方法
 最新の回路図およびプログラム一式をダウンロードするには、 リポジトリ右上にある緑色の **`[ <> Code ]`** ボタンをクリックし、メニューの一番下にある **`Download ZIP`** から一括ダウンロードできます。
 若しくは、[ここをクリックしてください。 ⬇️](https://github.com/ToyDr-W/PUYA_orgel_KittyCashier/archive/refs/heads/main.zip)
